@@ -1,0 +1,15 @@
+E:\yearcnl\obj\Debug\net6.0\yearcnl.csproj.AssemblyReference.cache
+E:\yearcnl\obj\Debug\net6.0\yearcnl.GeneratedMSBuildEditorConfig.editorconfig
+E:\yearcnl\obj\Debug\net6.0\yearcnl.AssemblyInfoInputs.cache
+E:\yearcnl\obj\Debug\net6.0\yearcnl.AssemblyInfo.cs
+E:\yearcnl\obj\Debug\net6.0\yearcnl.csproj.CoreCompileInputs.cache
+E:\yearcnl\bin\Debug\net6.0\yearcnl.exe
+E:\yearcnl\bin\Debug\net6.0\yearcnl.deps.json
+E:\yearcnl\bin\Debug\net6.0\yearcnl.runtimeconfig.json
+E:\yearcnl\bin\Debug\net6.0\yearcnl.dll
+E:\yearcnl\bin\Debug\net6.0\yearcnl.pdb
+E:\yearcnl\obj\Debug\net6.0\yearcnl.dll
+E:\yearcnl\obj\Debug\net6.0\refint\yearcnl.dll
+E:\yearcnl\obj\Debug\net6.0\yearcnl.pdb
+E:\yearcnl\obj\Debug\net6.0\yearcnl.genruntimeconfig.cache
+E:\yearcnl\obj\Debug\net6.0\ref\yearcnl.dll
